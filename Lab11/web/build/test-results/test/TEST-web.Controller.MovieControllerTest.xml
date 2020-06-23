@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="web.Controller.MovieControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-01T22:35:13" hostname="DESKTOP-3G564KV" time="2.07">
+  <properties/>
+  <testcase name="updateMovie" classname="web.Controller.MovieControllerTest" time="2.07"/>
+  <system-out><![CDATA[2020-06-02T01:35:15,818 TRACE [Test worker]: MovieController                      - Controller - updateMovie - id: title1 movie: MovieDto(super=BaseDto(id=1), title=title1, genre=genre, year=1999, rentals=null) 
+2020-06-02T01:35:15,840 TRACE [Test worker]: MovieController                      - Controller - movie updated 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/springjpa/repository/dbRepository/ClientDBRepository.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/springjpa/repository/dbRepository/MovieDBRepository.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/springjpa/repository/dbRepository/RentDBRepository.java" dialect="GenericSQL" />
+  </component>
+</project>

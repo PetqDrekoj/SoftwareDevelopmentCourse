@@ -1,0 +1,95 @@
+2020-05-03T18:43:42,386 TRACE [http-nio-8080-exec-7]: StudentServiceImpl                   - getAllStudents --- method entered 
+2020-05-03T18:43:42,698 TRACE [http-nio-8080-exec-7]: StudentServiceImpl                   - getAllStudents: result=[Student(super=BaseEntity(id=1), serialNumber=sn1, name=updated, groupNumber=111)] 
+2020-05-03T18:43:42,742 TRACE [http-nio-8080-exec-9]: StudentServiceImpl                   - getAllStudents --- method entered 
+2020-05-03T18:43:42,748 TRACE [http-nio-8080-exec-9]: StudentServiceImpl                   - getAllStudents: result=[] 
+2020-05-03T18:47:07,270 TRACE [http-nio-8080-exec-2]: StudentServiceImpl                   - getAllStudents --- method entered 
+2020-05-03T18:47:07,274 TRACE [http-nio-8080-exec-2]: StudentServiceImpl                   - getAllStudents: result=[] 
+2020-05-04T16:36:57,254 TRACE [http-nio-8080-exec-5]: MovieController                      - Controller - getAllMovies - entered 
+2020-05-04T16:36:58,069 TRACE [http-nio-8080-exec-5]: MovieController                      - Controller - getAllMovies - movies: 
+ MoviesDto(movies=[MovieDto(super=BaseDto(id=1), title=dsa, genre=asd, year=1999)]) 
+2020-05-04T16:37:16,740 TRACE [http-nio-8080-exec-6]: MovieController                      - Controller - addMovie - movie: MovieDto(super=BaseDto(id=1), title=asd, genre=eqw, year=2000) 
+2020-05-04T16:37:16,776 TRACE [http-nio-8080-exec-6]: MovieController                      - Controller - movie add failed. Error: 
+ core.domain.validators.MovieProjectException: id is used 
+2020-05-04T16:37:21,512 TRACE [http-nio-8080-exec-7]: MovieController                      - Controller - getAllMovies - entered 
+2020-05-04T16:37:21,516 TRACE [http-nio-8080-exec-7]: MovieController                      - Controller - getAllMovies - movies: 
+ MoviesDto(movies=[MovieDto(super=BaseDto(id=1), title=dsa, genre=asd, year=1999)]) 
+2020-05-04T16:37:41,572 TRACE [http-nio-8080-exec-9]: MovieController                      - Controller - addMovie - movie: MovieDto(super=BaseDto(id=2), title=movie2, genre=drama, year=2000) 
+2020-05-04T16:37:41,746 TRACE [http-nio-8080-exec-9]: MovieController                      - Controller - movie added 
+2020-05-04T16:37:43,573 TRACE [http-nio-8080-exec-10]: MovieController                      - Controller - getAllMovies - entered 
+2020-05-04T16:37:43,577 TRACE [http-nio-8080-exec-10]: MovieController                      - Controller - getAllMovies - movies: 
+ MoviesDto(movies=[MovieDto(super=BaseDto(id=2), title=movie2, genre=drama, year=2000), MovieDto(super=BaseDto(id=1), title=dsa, genre=asd, year=1999)]) 
+2020-05-04T16:45:22,814 TRACE [http-nio-8080-exec-2]: MovieController                      - Controller - getAllMovies - entered 
+2020-05-04T16:45:22,819 TRACE [http-nio-8080-exec-2]: MovieController                      - Controller - getAllMovies - movies: 
+ MoviesDto(movies=[MovieDto(super=BaseDto(id=1), title=dsa, genre=asd, year=1999), MovieDto(super=BaseDto(id=2), title=movie2, genre=drama, year=2000)]) 
+2020-05-04T16:45:40,747 TRACE [http-nio-8080-exec-3]: MovieController                      - Controller - addMovie - movie: MovieDto(super=BaseDto(id=3), title=movie3, genre=drama, year=2001) 
+2020-05-04T16:45:40,825 TRACE [http-nio-8080-exec-3]: MovieController                      - Controller - movie added 
+2020-05-04T16:45:46,730 TRACE [http-nio-8080-exec-4]: MovieController                      - Controller - getAllMovies - entered 
+2020-05-04T16:45:46,734 TRACE [http-nio-8080-exec-4]: MovieController                      - Controller - getAllMovies - movies: 
+ MoviesDto(movies=[MovieDto(super=BaseDto(id=3), title=movie3, genre=drama, year=2001), MovieDto(super=BaseDto(id=2), title=movie2, genre=drama, year=2000), MovieDto(super=BaseDto(id=1), title=dsa, genre=asd, year=1999)]) 
+2020-05-04T16:46:03,773 TRACE [http-nio-8080-exec-5]: MovieController                      - Controller - updateMovie - id: 1 movie: MovieDto(super=BaseDto(id=1), title=movie4, genre=drama, year=1999) 
+2020-05-04T16:46:03,784 TRACE [http-nio-8080-exec-5]: MovieController                      - Controller - movie updated 
+2020-05-04T16:46:05,744 TRACE [http-nio-8080-exec-6]: MovieController                      - Controller - getAllMovies - entered 
+2020-05-04T16:46:05,749 TRACE [http-nio-8080-exec-6]: MovieController                      - Controller - getAllMovies - movies: 
+ MoviesDto(movies=[MovieDto(super=BaseDto(id=1), title=movie4, genre=drama, year=1999), MovieDto(super=BaseDto(id=3), title=movie3, genre=drama, year=2001), MovieDto(super=BaseDto(id=2), title=movie2, genre=drama, year=2000)]) 
+2020-05-04T16:46:21,758 TRACE [http-nio-8080-exec-7]: MovieController                      - Controller - addMovie - movie: MovieDto(super=BaseDto(id=31), title=das, genre=ad, year=1992) 
+2020-05-04T16:46:21,764 TRACE [http-nio-8080-exec-7]: MovieController                      - Controller - movie added 
+2020-05-04T16:46:23,757 TRACE [http-nio-8080-exec-8]: MovieController                      - Controller - getAllMovies - entered 
+2020-05-04T16:46:23,761 TRACE [http-nio-8080-exec-8]: MovieController                      - Controller - getAllMovies - movies: 
+ MoviesDto(movies=[MovieDto(super=BaseDto(id=1), title=movie4, genre=drama, year=1999), MovieDto(super=BaseDto(id=31), title=das, genre=ad, year=1992), MovieDto(super=BaseDto(id=2), title=movie2, genre=drama, year=2000), MovieDto(super=BaseDto(id=3), title=movie3, genre=drama, year=2001)]) 
+2020-05-04T16:46:31,762 TRACE [http-nio-8080-exec-9]: MovieController                      - Controller - updateMovie - id: 31 
+2020-05-04T16:46:31,951 TRACE [http-nio-8080-exec-9]: MovieController                      - Controller - movie deleted 
+2020-05-04T16:46:34,762 TRACE [http-nio-8080-exec-10]: MovieController                      - Controller - getAllMovies - entered 
+2020-05-04T16:46:34,767 TRACE [http-nio-8080-exec-10]: MovieController                      - Controller - getAllMovies - movies: 
+ MoviesDto(movies=[MovieDto(super=BaseDto(id=2), title=movie2, genre=drama, year=2000), MovieDto(super=BaseDto(id=1), title=movie4, genre=drama, year=1999), MovieDto(super=BaseDto(id=3), title=movie3, genre=drama, year=2001)]) 
+2020-05-04T16:46:45,776 TRACE [http-nio-8080-exec-1]: ClientController                     - Controller - getAllClients - entered 
+2020-05-04T16:46:46,481 TRACE [http-nio-8080-exec-1]: ClientController                     - Controller - getAllClients - clients: 
+ ClientsDto(clients=[]) 
+2020-05-04T16:46:53,784 TRACE [http-nio-8080-exec-2]: ClientController                     - Controller - addClient - ClientDto(super=BaseDto(id=1), name=Dragos, age=20) 
+2020-05-04T16:46:53,840 TRACE [http-nio-8080-exec-2]: ClientController                     - Controller - client save failed. Error: 
+ java.lang.IllegalArgumentException: The given id must not be null! 
+2020-05-04T16:47:01,793 TRACE [http-nio-8080-exec-3]: ClientController                     - Controller - addClient - ClientDto(super=BaseDto(id=2), name=Iuliana, age=21) 
+2020-05-04T16:47:01,795 TRACE [http-nio-8080-exec-3]: ClientController                     - Controller - client save failed. Error: 
+ java.lang.IllegalArgumentException: The given id must not be null! 
+2020-05-04T16:47:11,802 TRACE [http-nio-8080-exec-4]: ClientController                     - Controller - addClient - ClientDto(super=BaseDto(id=3), name=Radu, age=19) 
+2020-05-04T16:47:11,804 TRACE [http-nio-8080-exec-4]: ClientController                     - Controller - client save failed. Error: 
+ java.lang.IllegalArgumentException: The given id must not be null! 
+2020-05-04T16:47:14,799 TRACE [http-nio-8080-exec-5]: ClientController                     - Controller - getAllClients - entered 
+2020-05-04T16:47:14,802 TRACE [http-nio-8080-exec-5]: ClientController                     - Controller - getAllClients - clients: 
+ ClientsDto(clients=[]) 
+2020-05-04T16:51:11,827 TRACE [http-nio-8080-exec-5]: MovieController                      - Controller - getAllMovies - entered 
+2020-05-04T16:51:12,390 TRACE [http-nio-8080-exec-5]: MovieController                      - Controller - getAllMovies - movies: 
+ MoviesDto(movies=[MovieDto(super=BaseDto(id=2), title=movie2, genre=drama, year=2000), MovieDto(super=BaseDto(id=1), title=movie4, genre=drama, year=1999), MovieDto(super=BaseDto(id=3), title=movie3, genre=drama, year=2001)]) 
+2020-05-04T16:51:18,628 TRACE [http-nio-8080-exec-6]: ClientController                     - Controller - getAllClients - entered 
+2020-05-04T16:51:18,652 TRACE [http-nio-8080-exec-6]: ClientController                     - Controller - getAllClients - clients: 
+ ClientsDto(clients=[]) 
+2020-05-04T16:51:25,900 TRACE [http-nio-8080-exec-7]: ClientController                     - Controller - addClient - ClientDto(super=BaseDto(id=1), name=Dragos, age=21) 
+2020-05-04T16:51:26,095 TRACE [http-nio-8080-exec-7]: ClientController                     - Controller - client saved 
+2020-05-04T16:51:33,653 TRACE [http-nio-8080-exec-8]: ClientController                     - Controller - addClient - ClientDto(super=BaseDto(id=2), name=Iuliana, age=22) 
+2020-05-04T16:51:33,660 TRACE [http-nio-8080-exec-8]: ClientController                     - Controller - client saved 
+2020-05-04T16:51:49,665 TRACE [http-nio-8080-exec-9]: ClientController                     - Controller - addClient - ClientDto(super=BaseDto(id=3), name=Rddu, age=10) 
+2020-05-04T16:51:49,672 TRACE [http-nio-8080-exec-9]: ClientController                     - Controller - client saved 
+2020-05-04T16:51:51,662 TRACE [http-nio-8080-exec-10]: ClientController                     - Controller - getAllClients - entered 
+2020-05-04T16:51:51,666 TRACE [http-nio-8080-exec-10]: ClientController                     - Controller - getAllClients - clients: 
+ ClientsDto(clients=[ClientDto(super=BaseDto(id=1), name=Dragos, age=21), ClientDto(super=BaseDto(id=3), name=Rddu, age=10), ClientDto(super=BaseDto(id=2), name=Iuliana, age=22)]) 
+2020-05-04T16:52:00,706 TRACE [http-nio-8080-exec-1]: ClientController                     - Controller - deleteClient - id: 3  
+2020-05-04T16:52:00,844 TRACE [http-nio-8080-exec-1]: ClientController                     - Controller - client deleted 
+2020-05-04T16:52:02,673 TRACE [http-nio-8080-exec-2]: ClientController                     - Controller - getAllClients - entered 
+2020-05-04T16:52:02,677 TRACE [http-nio-8080-exec-2]: ClientController                     - Controller - getAllClients - clients: 
+ ClientsDto(clients=[ClientDto(super=BaseDto(id=2), name=Iuliana, age=22), ClientDto(super=BaseDto(id=1), name=Dragos, age=21)]) 
+2020-05-04T16:52:18,692 TRACE [http-nio-8080-exec-3]: ClientController                     - Controller - updateClient - id: 2 client: ClientDto(super=BaseDto(id=2), name=Iuliana, age=21) 
+2020-05-04T16:52:18,710 TRACE [http-nio-8080-exec-3]: ClientController                     - Controller - client updated 
+2020-05-04T16:52:22,692 TRACE [http-nio-8080-exec-4]: ClientController                     - Controller - getAllClients - entered 
+2020-05-04T16:52:22,699 TRACE [http-nio-8080-exec-4]: ClientController                     - Controller - getAllClients - clients: 
+ ClientsDto(clients=[ClientDto(super=BaseDto(id=2), name=Iuliana, age=21), ClientDto(super=BaseDto(id=1), name=Dragos, age=21)]) 
+2020-05-04T16:52:33,711 TRACE [http-nio-8080-exec-5]: RentController                       - Controller - addRent - rent: RentDto(super=BaseDto(id=1), movieId=1, clientId=1) 
+2020-05-04T16:52:33,770 TRACE [http-nio-8080-exec-5]: RentController                       - Controller - rent added 
+2020-05-04T16:52:36,712 TRACE [http-nio-8080-exec-6]: RentController                       - Controller - getAllRents - entered 
+2020-05-04T16:52:36,715 TRACE [http-nio-8080-exec-6]: RentController                       - Controller - getAllRents - rents: RentsDto(rents=[RentDto(super=BaseDto(id=1), movieId=1, clientId=1)]) 
+2020-05-04T16:52:44,730 TRACE [http-nio-8080-exec-7]: MovieController                      - Controller - getSortedMovies - entered 
+2020-05-04T16:52:44,742 TRACE [http-nio-8080-exec-7]: MovieController                      - Controller - getSortedMovies - movies: 
+ MoviesDto(movies=[MovieDto(super=BaseDto(id=2), title=movie2, genre=drama, year=2000), MovieDto(super=BaseDto(id=3), title=movie3, genre=drama, year=2001), MovieDto(super=BaseDto(id=1), title=movie4, genre=drama, year=1999)]) 
+2020-05-04T16:53:01,747 TRACE [http-nio-8080-exec-8]: RentController                       - Controller - filterMoviesIfRented 
+2020-05-04T16:53:01,753 TRACE [http-nio-8080-exec-8]: RentController                       - Controller - filterMoviesIfRented. Movies: 
+ StringsDto(movies=[movie4]) 
+2020-05-04T16:53:09,748 TRACE [http-nio-8080-exec-9]: RentController                       - Controller - findMostRentedMovie 
+2020-05-04T16:53:09,758 TRACE [http-nio-8080-exec-9]: RentController                       - Controller - findMostRentedMovie. Movie: movie4 

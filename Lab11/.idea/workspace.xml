@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="286a63d6-46dc-461c-b792-d779e2c5c998" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/webapp/my-app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/my-app/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/my-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/my-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/my-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/my-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/my-app/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/my-app/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/my-app/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/my-app/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/my-app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/my-app/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/my-app/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/my-app/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/my-app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/my-app/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/my-app/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/my-app/src/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/webapp/my-app" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1bOCfY2oCteiyiWB9nI1EEnYfbh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../catalog-security" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="ts.external.directory.path" value="C:\Users\dyeni\Desktop\MPP\Lab11\webapp\my-app\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="web.dto" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="ClientControllerTest.deleteClient" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;web.Controller.ClientControllerTest.deleteClient&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":web:cleanTest" />
+            <option value=":web:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MovieControllerTest.createMovie" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;web.Controller.MovieControllerTest.createMovie&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":web:cleanTest" />
+            <option value=":web:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MovieControllerTest.deleteMovie" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;web.Controller.MovieControllerTest.deleteMovie&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":web:cleanTest" />
+            <option value=":web:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MovieControllerTest.updateClient" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;web.Controller.MovieControllerTest.updateClient&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":web:cleanTest" />
+            <option value=":web:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MovieControllerTest.updateMovie" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;web.Controller.MovieControllerTest.updateMovie&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":web:cleanTest" />
+            <option value=":web:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 9.0.30" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.30" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : Lab11 : web-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Lab11" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49958" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : Lab11 : web-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/webapp/my-app/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.ClientControllerTest.deleteClient" />
+      <item itemvalue="Gradle.MovieControllerTest.deleteMovie" />
+      <item itemvalue="Gradle.MovieControllerTest.createMovie" />
+      <item itemvalue="Gradle.MovieControllerTest.updateClient" />
+      <item itemvalue="Gradle.MovieControllerTest.updateMovie" />
+      <item itemvalue="npm.start" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.30" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.MovieControllerTest.updateMovie" />
+        <item itemvalue="Gradle.MovieControllerTest.updateClient" />
+        <item itemvalue="Gradle.MovieControllerTest.createMovie" />
+        <item itemvalue="Gradle.MovieControllerTest.deleteMovie" />
+        <item itemvalue="Gradle.ClientControllerTest.deleteClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.124223605" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="286a63d6-46dc-461c-b792-d779e2c5c998" name="Default Changelist" comment="" />
+      <created>1588493856247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588493856247</updated>
+      <workItem from="1588493863489" duration="849000" />
+      <workItem from="1588494741860" duration="14402000" />
+      <workItem from="1588517646691" duration="5564000" />
+      <workItem from="1588594629599" duration="4283000" />
+      <workItem from="1588615855298" duration="38000" />
+      <workItem from="1588661750364" duration="1211000" />
+      <workItem from="1588679075504" duration="1019000" />
+      <workItem from="1588680344409" duration="426000" />
+      <workItem from="1588680912444" duration="6591000" />
+      <workItem from="1588688224976" duration="5370000" />
+      <workItem from="1588697197664" duration="2112000" />
+      <workItem from="1589108747107" duration="12530000" />
+      <workItem from="1589180419727" duration="31000" />
+      <workItem from="1589295716730" duration="777000" />
+      <workItem from="1589310025018" duration="562000" />
+      <workItem from="1589312298497" duration="696000" />
+      <workItem from="1589320401411" duration="1361000" />
+      <workItem from="1589700079398" duration="30012000" />
+      <workItem from="1589789450215" duration="95000" />
+      <workItem from="1589823618288" duration="6566000" />
+      <workItem from="1589873372187" duration="5153000" />
+      <workItem from="1589900351158" duration="8461000" />
+      <workItem from="1589925019880" duration="187000" />
+      <workItem from="1590442384738" duration="10600000" />
+      <workItem from="1590454854130" duration="2134000" />
+      <workItem from="1590470832053" duration="1183000" />
+      <workItem from="1590474663268" duration="29673000" />
+      <workItem from="1590839330847" duration="19974000" />
+      <workItem from="1590874120877" duration="3116000" />
+      <workItem from="1590957431250" duration="9325000" />
+      <workItem from="1591011036420" duration="17619000" />
+      <workItem from="1591042157156" duration="8006000" />
+      <workItem from="1591078348221" duration="7414000" />
+      <workItem from="1591996046297" duration="6089000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="528" y="79" key="#ClientApp" timestamp="1588689828343">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="528" y="79" key="#ClientApp/0.0.1536.824@0.0.1536.824" timestamp="1588689828343" />
+    <state x="361" y="75" key="#Inspections" timestamp="1589703700002">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="75" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1589703700002" />
+    <state x="355" y="71" key="#Project_Structure" timestamp="1590456374098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="355" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1590456374098" />
+    <state x="355" y="70" key="#Tomcat_Server" timestamp="1588501652680">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="355" y="70" key="#Tomcat_Server/0.0.1536.824@0.0.1536.824" timestamp="1588501652680" />
+    <state x="217" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590485591121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="217" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590485591121" />
+    <state x="518" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591044116987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="518" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1591044116987" />
+    <state x="568" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1590489955369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="568" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590489955369" />
+    <state x="355" y="70" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1588501656224">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="355" y="70" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.824@0.0.1536.824" timestamp="1588501656224" />
+    <state x="443" y="338" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1588515817439">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="443" y="338" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1588515817439" />
+    <state x="566" y="272" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591034180649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="272" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1591034180649" />
+    <state x="596" y="284" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1590476952481">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="596" y="284" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1590476952481" />
+    <state x="877" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590839728873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="877" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1590839728873" />
+    <state x="542" y="153" key="FileChooserDialogImpl" timestamp="1591996221563">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="542" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591996221563" />
+    <state width="1281" height="310" key="GridCell.Tab.0.bottom" timestamp="1591132979966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="310" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591132979966" />
+    <state width="1281" height="310" key="GridCell.Tab.0.center" timestamp="1591132979966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="310" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591132979966" />
+    <state width="1281" height="310" key="GridCell.Tab.0.left" timestamp="1591132979966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="310" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591132979966" />
+    <state width="1281" height="310" key="GridCell.Tab.0.right" timestamp="1591132979966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="310" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591132979966" />
+    <state width="1281" height="310" key="GridCell.Tab.1.bottom" timestamp="1591132979967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="310" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591132979967" />
+    <state width="1281" height="310" key="GridCell.Tab.1.center" timestamp="1591132979966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="310" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591132979966" />
+    <state width="1281" height="310" key="GridCell.Tab.1.left" timestamp="1591132979966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="310" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591132979966" />
+    <state width="1281" height="310" key="GridCell.Tab.1.right" timestamp="1591132979966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="310" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591132979966" />
+    <state width="1281" height="310" key="GridCell.Tab.2.bottom" timestamp="1591132979967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="310" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591132979967" />
+    <state width="1281" height="310" key="GridCell.Tab.2.center" timestamp="1591132979967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="310" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1591132979967" />
+    <state width="1281" height="310" key="GridCell.Tab.2.left" timestamp="1591132979967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="310" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1591132979967" />
+    <state width="1281" height="310" key="GridCell.Tab.2.right" timestamp="1591132979967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="310" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1591132979967" />
+    <state width="1281" height="310" key="GridCell.Tab.3.bottom" timestamp="1591132979967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="310" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591132979967" />
+    <state width="1281" height="310" key="GridCell.Tab.3.center" timestamp="1591132979967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="310" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1591132979967" />
+    <state width="1281" height="310" key="GridCell.Tab.3.left" timestamp="1591132979967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="310" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1591132979967" />
+    <state width="1281" height="310" key="GridCell.Tab.3.right" timestamp="1591132979967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1281" height="310" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1591132979967" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1590476850677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590476850677" />
+    <state x="209" y="24" key="new project wizard" timestamp="1591996229337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="24" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1591996229337" />
+    <state x="1010" y="362" width="348" height="298" key="org.angular.cli.generate" timestamp="1590960228378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1010" y="362" width="348" height="298" key="org.angular.cli.generate/0.0.1536.824@0.0.1536.824" timestamp="1590960228378" />
+    <state x="475" y="41" key="refactoring.ChangeSignatureDialog" timestamp="1588495666551">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="41" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1588495666551" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1590454670089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1590454670089" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589743094686">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589743094686" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/core/repository/dbRepository/OLDREPO.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/core/repository/dbRepository/ClientRepositoryAPIImpl.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/core/repository/dbRepository/ClientRepositoryAPIImpl.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/core/repository/dbRepository/MovieRepositoryCriteriaImpl.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/core/repository/dbRepository/MovieRepositoryCriteriaImpl.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/core/repository/dbRepository/MovieRepositoryNativeImpl.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/core/repository/dbRepository/MovieRepositoryNativeImpl.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/src/main/java/web/controller/ClientController.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core/src/main/java/core/service/ServiceClient.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/src/main/java/web/security/CatalogUserDetailsService.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/src/main/java/web/controller/ClientController.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,2 @@
+Õ2020-06-02T01:35:15,818 TRACE [Test worker]: MovieController                      - Controller - updateMovie - id: title1 movie: MovieDto(super=BaseDto(id=1), title=title1, genre=genre, year=1999, rentals=null) 
+q2020-06-02T01:35:15,840 TRACE [Test worker]: MovieController                      - Controller - movie updated 
